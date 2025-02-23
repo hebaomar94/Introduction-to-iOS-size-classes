@@ -17,3 +17,4 @@ https://guides.codepath.com/ios/Auto-Layout-Basics#what-is-auto-layout-and-why-u
 
 
 # Introduction-to-iOS-size-classes
+https://medium.com/@benjamin.font/introduction-to-ios-size-classes-732862ffb45e
