@@ -1,4 +1,4 @@
-#Auto Layout Basics
+# Auto Layout Basics
 https://guides.codepath.com/ios/Auto-Layout-Basics#what-is-auto-layout-and-why-use-it
 
 * Example of layout problem
